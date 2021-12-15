@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM python:3.10.0-slim-bullseye 
+FROM python:3.9.7-slim-bullseye 
 
 ENV VIRTUAL_ENV=/opt/venv
 RUN python3 -m venv $VIRTUAL_ENV
@@ -20,6 +20,7 @@ ENV PATH="/root/.nvm/versions/node/v${NODE_VERSION}/bin/:${PATH}"
 # python dependencies
 COPY ./requirements.txt .
 COPY . .
+RUN pip install --upgrade pip setuptools wheel
 RUN pip install -r requirements.txt
 RUN pip install autopep8
 RUN npm i -g nodemon
