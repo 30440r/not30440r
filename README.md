@@ -1,4 +1,4 @@
-# not30440r
+# not30440r (NOT FINISHED!!!!)
 
 ## Setup instructions
 These instructions assume you are on macOS or Linux. Windows users, good luck.
