@@ -69,18 +69,17 @@ PASTEE_TOKEN="your API key here"
 RESNEXT_TOKEN="your token here"
 ```
 
-## Contributors
+## not30440r Contributors
 
 <table>
   <tr>
     <td align="center"><a href="https://aamirfarooq.dev"><img src="https://avatars.githubusercontent.com/u/10660846?v=4" width="100px;" alt=""/><br /><sub><b>SlimShadyIAm</b></sub></a></td>
-    <td align="center"><a href="https://github.com/stekc"><img src="https://avatars.githubusercontent.com/u/57512084?v=4" width="100px;" alt=""/><br /><sub>
   </tr>
   </table>
 
 
 
-## Previous Contributors
+## Bloo Contributors
 
 <table>
   <tr>
