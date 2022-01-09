@@ -73,7 +73,7 @@ RESNEXT_TOKEN="your token here"
 
 <table>
   <tr>
-    <td align="center"><a href="https://aamirfarooq.dev"><img src="https://avatars.githubusercontent.com/u/10660846?v=4" width="100px;" alt=""/><br /><sub><b>SlimShadyIAm</b></sub></a></td>
+    <td align="center"><a href="http://www.30440r"><img src="https://avatars.githubusercontent.com/u/63462198?v=4" width="100px;" alt=""/><br /><sub><b>30440r</b></sub></a></td>
   </tr>
   </table>
 
