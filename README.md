@@ -1,4 +1,4 @@
-# Bloo
+# not30440r
 
 ## Setup instructions
 These instructions assume you are on macOS or Linux. Windows users, good luck.
@@ -17,7 +17,7 @@ You will need the following installed:
 5. VSCode should build the Docker image and open it automatically; this may take a couple of minutes as it has to install some extensions as well.
 6. Set up the `.env` file as shown [here](#env-file).
 7. Make sure the database is set up.
-8. Open the integrated terminal in VSCode and run the `bloo` command to start the bot with hot reload!
+8. Open the integrated terminal in VSCode and run the `n34r` command to start the bot with hot reload!
 
 > Note that if you make changes to the `Dockerfile`, `.devcontainer.json`, or need to install a new requirement, you need to rebuild the Docker image. You can do this through the Command Palette again, run "Remote-Containers: Rebuild Container".
 
@@ -91,4 +91,4 @@ RESNEXT_TOKEN="your token here"
 Special thanks to the following people for ideas, testing, or help:
 - [Jack LaFond](https://www.jack.link/) --- creator of [tunes.ninja](https://tunes.ninja/), the bot that the Songs cog is inspired by
 - Cameren from r/jb, who has given a lot of ideas and helped with testing on many occasions
-- [Lillie](https://github.com/LillieWeeb001/) --- creator of the [fake jailbreak and iCloud bypass list](https://github.com/LillieWeeb001/Anti-Scam-Json-List) used by Bloo's filter
+- [Lillie](https://github.com/LillieWeeb001/) --- creator of the [fake jailbreak and iCloud bypass list](https://github.com/LillieWeeb001/Anti-Scam-Json-List) used by not30440r's filter
